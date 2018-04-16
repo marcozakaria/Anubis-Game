@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - FxTemporaire
+  - projectile
+  - Fire
+  - weapon
+  - grap
+  - breakable
   layers:
   - Default
   - TransparentFX
@@ -13,12 +19,12 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - CameraRig
+  - Ladder
+  - weapon
+  - player
+  - horse
+  - gun
   - 
   - 
   - 

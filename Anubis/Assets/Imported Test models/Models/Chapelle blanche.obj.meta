@@ -1,0 +1,777 @@
+fileFormatVersion: 2
+guid: 988ffc993c49ce341be32c0e38809be9
+timeCreated: 1522588427
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Mesh10_Architrave_E_O6_Model
+    100004: Mesh11_Pilier_carr_1_Model
+    100006: Mesh12_Parapet_1_1_4_Model
+    100008: Mesh13_Architrave_E_O7_Model
+    100010: Mesh14_Pilier_d_angle1_Model
+    100012: Mesh15_Architrave_N_S1_Model
+    100014: Mesh16_Groupe_4_1_Model
+    100016: Mesh17_Pilier_carr_2_Model
+    100018: Mesh18_Parapet_1_1_5_Model
+    100020: Mesh19_Architrave_E_O8_Model
+    100022: Mesh1_Group1_Model
+    100024: Mesh20_Parapet_1_1_Model
+    100026: Mesh21_Architrave_N_S2_Model
+    100028: Mesh22_Parapet_1_1_6_Model
+    100030: Mesh23_Pilier_d_angle2_Model
+    100032: Mesh24_Parapet_1_2_Model
+    100034: Mesh25_Pilier_d_angle3_Model
+    100036: Mesh26_Pilier_d_angle4_Model
+    100038: Mesh27_Architrave_N_S3_Model
+    100040: Mesh28_Pilier_d_angle5_Model
+    100042: Mesh29_Parapet_1_3_Model
+    100044: Mesh2_Architrave_E_O1_Model
+    100046: Mesh30_Boudin1_Model
+    100048: Mesh31_Pilier_carr_3_Model
+    100050: Mesh32_Pilier_d_angle6_Model
+    100052: Mesh33_Architrave_N_S4_Model
+    100054: Mesh34_Parapet_1_4_Model
+    100056: Mesh35_Architrave_E_O9_Model
+    100058: Mesh36_Pilier_carr_4_Model
+    100060: Mesh37_Architrave_E_O10_Model
+    100062: Mesh38_Architrave_N_S5_Model
+    100064: Mesh39_Architrave_E_O11_Model
+    100066: Mesh3_Parapet_1_1_1_Model
+    100068: Mesh40_Architrave_E_O12_Model
+    100070: Mesh41_Architrave_N_S6_Model
+    100072: Mesh42_Pilier_carr_5_Model
+    100074: Mesh43_Pilier_d_angle7_Model
+    100076: Mesh44_Pilier_carr_6_Model
+    100078: Mesh45_Pilier_carr_7_Model
+    100080: Mesh46_Pilier_d_angle8_Model
+    100082: Mesh47_Pilier_carr_8_Model
+    100084: Mesh48_Group2_Escalier1_Model
+    100086: Mesh49_Group3_Escalier1_Model
+    100088: Mesh4_Parapet_1_1_2_Model
+    100090: Mesh50_Group4_Escalier1_Model
+    100092: Mesh51_Group5_Escalier1_Model
+    100094: Mesh52_Group6_Escalier1_Model
+    100096: Mesh53_Group7_Escalier1_Model
+    100098: Mesh54_Group8_Escalier1_Model
+    100100: Mesh55_Group9_Escalier1_Model
+    100102: Mesh56_Rampe1_Escalier1_Model
+    100104: Mesh57_Rampe2_Escalier1_Model
+    100106: Mesh58_Escalier1_Model
+    100108: Mesh59_Group10_Escalier2_Model
+    100110: Mesh5_Architrave_E_O2_Model
+    100112: Mesh60_Group11_Escalier2_Model
+    100114: Mesh61_Group12_Escalier2_Model
+    100116: Mesh62_Group13_Escalier2_Model
+    100118: Mesh63_Group14_Escalier2_Model
+    100120: Mesh64_Group15_Escalier2_Model
+    100122: Mesh65_Group16_Escalier2_Model
+    100124: Mesh66_Group17_Escalier2_Model
+    100126: Mesh67_Rampe3_Escalier2_Model
+    100128: Mesh68_Rampe4_Escalier2_Model
+    100130: Mesh69_Escalier2_Model
+    100132: Mesh6_Architrave_E_O3_Model
+    100134: Mesh7_Parapet_1_1_3_Model
+    100136: Mesh8_Architrave_E_O4_Model
+    100138: Mesh9_Architrave_E_O5_Model
+    400000: //RootNode
+    400002: Mesh10_Architrave_E_O6_Model
+    400004: Mesh11_Pilier_carr_1_Model
+    400006: Mesh12_Parapet_1_1_4_Model
+    400008: Mesh13_Architrave_E_O7_Model
+    400010: Mesh14_Pilier_d_angle1_Model
+    400012: Mesh15_Architrave_N_S1_Model
+    400014: Mesh16_Groupe_4_1_Model
+    400016: Mesh17_Pilier_carr_2_Model
+    400018: Mesh18_Parapet_1_1_5_Model
+    400020: Mesh19_Architrave_E_O8_Model
+    400022: Mesh1_Group1_Model
+    400024: Mesh20_Parapet_1_1_Model
+    400026: Mesh21_Architrave_N_S2_Model
+    400028: Mesh22_Parapet_1_1_6_Model
+    400030: Mesh23_Pilier_d_angle2_Model
+    400032: Mesh24_Parapet_1_2_Model
+    400034: Mesh25_Pilier_d_angle3_Model
+    400036: Mesh26_Pilier_d_angle4_Model
+    400038: Mesh27_Architrave_N_S3_Model
+    400040: Mesh28_Pilier_d_angle5_Model
+    400042: Mesh29_Parapet_1_3_Model
+    400044: Mesh2_Architrave_E_O1_Model
+    400046: Mesh30_Boudin1_Model
+    400048: Mesh31_Pilier_carr_3_Model
+    400050: Mesh32_Pilier_d_angle6_Model
+    400052: Mesh33_Architrave_N_S4_Model
+    400054: Mesh34_Parapet_1_4_Model
+    400056: Mesh35_Architrave_E_O9_Model
+    400058: Mesh36_Pilier_carr_4_Model
+    400060: Mesh37_Architrave_E_O10_Model
+    400062: Mesh38_Architrave_N_S5_Model
+    400064: Mesh39_Architrave_E_O11_Model
+    400066: Mesh3_Parapet_1_1_1_Model
+    400068: Mesh40_Architrave_E_O12_Model
+    400070: Mesh41_Architrave_N_S6_Model
+    400072: Mesh42_Pilier_carr_5_Model
+    400074: Mesh43_Pilier_d_angle7_Model
+    400076: Mesh44_Pilier_carr_6_Model
+    400078: Mesh45_Pilier_carr_7_Model
+    400080: Mesh46_Pilier_d_angle8_Model
+    400082: Mesh47_Pilier_carr_8_Model
+    400084: Mesh48_Group2_Escalier1_Model
+    400086: Mesh49_Group3_Escalier1_Model
+    400088: Mesh4_Parapet_1_1_2_Model
+    400090: Mesh50_Group4_Escalier1_Model
+    400092: Mesh51_Group5_Escalier1_Model
+    400094: Mesh52_Group6_Escalier1_Model
+    400096: Mesh53_Group7_Escalier1_Model
+    400098: Mesh54_Group8_Escalier1_Model
+    400100: Mesh55_Group9_Escalier1_Model
+    400102: Mesh56_Rampe1_Escalier1_Model
+    400104: Mesh57_Rampe2_Escalier1_Model
+    400106: Mesh58_Escalier1_Model
+    400108: Mesh59_Group10_Escalier2_Model
+    400110: Mesh5_Architrave_E_O2_Model
+    400112: Mesh60_Group11_Escalier2_Model
+    400114: Mesh61_Group12_Escalier2_Model
+    400116: Mesh62_Group13_Escalier2_Model
+    400118: Mesh63_Group14_Escalier2_Model
+    400120: Mesh64_Group15_Escalier2_Model
+    400122: Mesh65_Group16_Escalier2_Model
+    400124: Mesh66_Group17_Escalier2_Model
+    400126: Mesh67_Rampe3_Escalier2_Model
+    400128: Mesh68_Rampe4_Escalier2_Model
+    400130: Mesh69_Escalier2_Model
+    400132: Mesh6_Architrave_E_O3_Model
+    400134: Mesh7_Parapet_1_1_3_Model
+    400136: Mesh8_Architrave_E_O4_Model
+    400138: Mesh9_Architrave_E_O5_Model
+    2300000: Mesh10_Architrave_E_O6_Model
+    2300002: Mesh11_Pilier_carr_1_Model
+    2300004: Mesh12_Parapet_1_1_4_Model
+    2300006: Mesh13_Architrave_E_O7_Model
+    2300008: Mesh14_Pilier_d_angle1_Model
+    2300010: Mesh15_Architrave_N_S1_Model
+    2300012: Mesh16_Groupe_4_1_Model
+    2300014: Mesh17_Pilier_carr_2_Model
+    2300016: Mesh18_Parapet_1_1_5_Model
+    2300018: Mesh19_Architrave_E_O8_Model
+    2300020: Mesh1_Group1_Model
+    2300022: Mesh20_Parapet_1_1_Model
+    2300024: Mesh21_Architrave_N_S2_Model
+    2300026: Mesh22_Parapet_1_1_6_Model
+    2300028: Mesh23_Pilier_d_angle2_Model
+    2300030: Mesh24_Parapet_1_2_Model
+    2300032: Mesh25_Pilier_d_angle3_Model
+    2300034: Mesh26_Pilier_d_angle4_Model
+    2300036: Mesh27_Architrave_N_S3_Model
+    2300038: Mesh28_Pilier_d_angle5_Model
+    2300040: Mesh29_Parapet_1_3_Model
+    2300042: Mesh2_Architrave_E_O1_Model
+    2300044: Mesh30_Boudin1_Model
+    2300046: Mesh31_Pilier_carr_3_Model
+    2300048: Mesh32_Pilier_d_angle6_Model
+    2300050: Mesh33_Architrave_N_S4_Model
+    2300052: Mesh34_Parapet_1_4_Model
+    2300054: Mesh35_Architrave_E_O9_Model
+    2300056: Mesh36_Pilier_carr_4_Model
+    2300058: Mesh37_Architrave_E_O10_Model
+    2300060: Mesh38_Architrave_N_S5_Model
+    2300062: Mesh39_Architrave_E_O11_Model
+    2300064: Mesh3_Parapet_1_1_1_Model
+    2300066: Mesh40_Architrave_E_O12_Model
+    2300068: Mesh41_Architrave_N_S6_Model
+    2300070: Mesh42_Pilier_carr_5_Model
+    2300072: Mesh43_Pilier_d_angle7_Model
+    2300074: Mesh44_Pilier_carr_6_Model
+    2300076: Mesh45_Pilier_carr_7_Model
+    2300078: Mesh46_Pilier_d_angle8_Model
+    2300080: Mesh47_Pilier_carr_8_Model
+    2300082: Mesh48_Group2_Escalier1_Model
+    2300084: Mesh49_Group3_Escalier1_Model
+    2300086: Mesh4_Parapet_1_1_2_Model
+    2300088: Mesh50_Group4_Escalier1_Model
+    2300090: Mesh51_Group5_Escalier1_Model
+    2300092: Mesh52_Group6_Escalier1_Model
+    2300094: Mesh53_Group7_Escalier1_Model
+    2300096: Mesh54_Group8_Escalier1_Model
+    2300098: Mesh55_Group9_Escalier1_Model
+    2300100: Mesh56_Rampe1_Escalier1_Model
+    2300102: Mesh57_Rampe2_Escalier1_Model
+    2300104: Mesh58_Escalier1_Model
+    2300106: Mesh59_Group10_Escalier2_Model
+    2300108: Mesh5_Architrave_E_O2_Model
+    2300110: Mesh60_Group11_Escalier2_Model
+    2300112: Mesh61_Group12_Escalier2_Model
+    2300114: Mesh62_Group13_Escalier2_Model
+    2300116: Mesh63_Group14_Escalier2_Model
+    2300118: Mesh64_Group15_Escalier2_Model
+    2300120: Mesh65_Group16_Escalier2_Model
+    2300122: Mesh66_Group17_Escalier2_Model
+    2300124: Mesh67_Rampe3_Escalier2_Model
+    2300126: Mesh68_Rampe4_Escalier2_Model
+    2300128: Mesh69_Escalier2_Model
+    2300130: Mesh6_Architrave_E_O3_Model
+    2300132: Mesh7_Parapet_1_1_3_Model
+    2300134: Mesh8_Architrave_E_O4_Model
+    2300136: Mesh9_Architrave_E_O5_Model
+    3300000: Mesh10_Architrave_E_O6_Model
+    3300002: Mesh11_Pilier_carr_1_Model
+    3300004: Mesh12_Parapet_1_1_4_Model
+    3300006: Mesh13_Architrave_E_O7_Model
+    3300008: Mesh14_Pilier_d_angle1_Model
+    3300010: Mesh15_Architrave_N_S1_Model
+    3300012: Mesh16_Groupe_4_1_Model
+    3300014: Mesh17_Pilier_carr_2_Model
+    3300016: Mesh18_Parapet_1_1_5_Model
+    3300018: Mesh19_Architrave_E_O8_Model
+    3300020: Mesh1_Group1_Model
+    3300022: Mesh20_Parapet_1_1_Model
+    3300024: Mesh21_Architrave_N_S2_Model
+    3300026: Mesh22_Parapet_1_1_6_Model
+    3300028: Mesh23_Pilier_d_angle2_Model
+    3300030: Mesh24_Parapet_1_2_Model
+    3300032: Mesh25_Pilier_d_angle3_Model
+    3300034: Mesh26_Pilier_d_angle4_Model
+    3300036: Mesh27_Architrave_N_S3_Model
+    3300038: Mesh28_Pilier_d_angle5_Model
+    3300040: Mesh29_Parapet_1_3_Model
+    3300042: Mesh2_Architrave_E_O1_Model
+    3300044: Mesh30_Boudin1_Model
+    3300046: Mesh31_Pilier_carr_3_Model
+    3300048: Mesh32_Pilier_d_angle6_Model
+    3300050: Mesh33_Architrave_N_S4_Model
+    3300052: Mesh34_Parapet_1_4_Model
+    3300054: Mesh35_Architrave_E_O9_Model
+    3300056: Mesh36_Pilier_carr_4_Model
+    3300058: Mesh37_Architrave_E_O10_Model
+    3300060: Mesh38_Architrave_N_S5_Model
+    3300062: Mesh39_Architrave_E_O11_Model
+    3300064: Mesh3_Parapet_1_1_1_Model
+    3300066: Mesh40_Architrave_E_O12_Model
+    3300068: Mesh41_Architrave_N_S6_Model
+    3300070: Mesh42_Pilier_carr_5_Model
+    3300072: Mesh43_Pilier_d_angle7_Model
+    3300074: Mesh44_Pilier_carr_6_Model
+    3300076: Mesh45_Pilier_carr_7_Model
+    3300078: Mesh46_Pilier_d_angle8_Model
+    3300080: Mesh47_Pilier_carr_8_Model
+    3300082: Mesh48_Group2_Escalier1_Model
+    3300084: Mesh49_Group3_Escalier1_Model
+    3300086: Mesh4_Parapet_1_1_2_Model
+    3300088: Mesh50_Group4_Escalier1_Model
+    3300090: Mesh51_Group5_Escalier1_Model
+    3300092: Mesh52_Group6_Escalier1_Model
+    3300094: Mesh53_Group7_Escalier1_Model
+    3300096: Mesh54_Group8_Escalier1_Model
+    3300098: Mesh55_Group9_Escalier1_Model
+    3300100: Mesh56_Rampe1_Escalier1_Model
+    3300102: Mesh57_Rampe2_Escalier1_Model
+    3300104: Mesh58_Escalier1_Model
+    3300106: Mesh59_Group10_Escalier2_Model
+    3300108: Mesh5_Architrave_E_O2_Model
+    3300110: Mesh60_Group11_Escalier2_Model
+    3300112: Mesh61_Group12_Escalier2_Model
+    3300114: Mesh62_Group13_Escalier2_Model
+    3300116: Mesh63_Group14_Escalier2_Model
+    3300118: Mesh64_Group15_Escalier2_Model
+    3300120: Mesh65_Group16_Escalier2_Model
+    3300122: Mesh66_Group17_Escalier2_Model
+    3300124: Mesh67_Rampe3_Escalier2_Model
+    3300126: Mesh68_Rampe4_Escalier2_Model
+    3300128: Mesh69_Escalier2_Model
+    3300130: Mesh6_Architrave_E_O3_Model
+    3300132: Mesh7_Parapet_1_1_3_Model
+    3300134: Mesh8_Architrave_E_O4_Model
+    3300136: Mesh9_Architrave_E_O5_Model
+    4300000: Mesh10_Architrave_E_O6_Model
+    4300002: Mesh11_Pilier_carr_1_Model
+    4300004: Mesh12_Parapet_1_1_4_Model
+    4300006: Mesh13_Architrave_E_O7_Model
+    4300008: Mesh14_Pilier_d_angle1_Model
+    4300010: Mesh15_Architrave_N_S1_Model
+    4300012: Mesh16_Groupe_4_1_Model
+    4300014: Mesh17_Pilier_carr_2_Model
+    4300016: Mesh18_Parapet_1_1_5_Model
+    4300018: Mesh19_Architrave_E_O8_Model
+    4300020: Mesh1_Group1_Model
+    4300022: Mesh20_Parapet_1_1_Model
+    4300024: Mesh21_Architrave_N_S2_Model
+    4300026: Mesh22_Parapet_1_1_6_Model
+    4300028: Mesh23_Pilier_d_angle2_Model
+    4300030: Mesh24_Parapet_1_2_Model
+    4300032: Mesh25_Pilier_d_angle3_Model
+    4300034: Mesh26_Pilier_d_angle4_Model
+    4300036: Mesh27_Architrave_N_S3_Model
+    4300038: Mesh28_Pilier_d_angle5_Model
+    4300040: Mesh29_Parapet_1_3_Model
+    4300042: Mesh2_Architrave_E_O1_Model
+    4300044: Mesh30_Boudin1_Model
+    4300046: Mesh31_Pilier_carr_3_Model
+    4300048: Mesh32_Pilier_d_angle6_Model
+    4300050: Mesh33_Architrave_N_S4_Model
+    4300052: Mesh34_Parapet_1_4_Model
+    4300054: Mesh35_Architrave_E_O9_Model
+    4300056: Mesh36_Pilier_carr_4_Model
+    4300058: Mesh37_Architrave_E_O10_Model
+    4300060: Mesh38_Architrave_N_S5_Model
+    4300062: Mesh39_Architrave_E_O11_Model
+    4300064: Mesh3_Parapet_1_1_1_Model
+    4300066: Mesh40_Architrave_E_O12_Model
+    4300068: Mesh41_Architrave_N_S6_Model
+    4300070: Mesh42_Pilier_carr_5_Model
+    4300072: Mesh43_Pilier_d_angle7_Model
+    4300074: Mesh44_Pilier_carr_6_Model
+    4300076: Mesh45_Pilier_carr_7_Model
+    4300078: Mesh46_Pilier_d_angle8_Model
+    4300080: Mesh47_Pilier_carr_8_Model
+    4300082: Mesh48_Group2_Escalier1_Model
+    4300084: Mesh49_Group3_Escalier1_Model
+    4300086: Mesh4_Parapet_1_1_2_Model
+    4300088: Mesh50_Group4_Escalier1_Model
+    4300090: Mesh51_Group5_Escalier1_Model
+    4300092: Mesh52_Group6_Escalier1_Model
+    4300094: Mesh53_Group7_Escalier1_Model
+    4300096: Mesh54_Group8_Escalier1_Model
+    4300098: Mesh55_Group9_Escalier1_Model
+    4300100: Mesh56_Rampe1_Escalier1_Model
+    4300102: Mesh57_Rampe2_Escalier1_Model
+    4300104: Mesh58_Escalier1_Model
+    4300106: Mesh59_Group10_Escalier2_Model
+    4300108: Mesh5_Architrave_E_O2_Model
+    4300110: Mesh60_Group11_Escalier2_Model
+    4300112: Mesh61_Group12_Escalier2_Model
+    4300114: Mesh62_Group13_Escalier2_Model
+    4300116: Mesh63_Group14_Escalier2_Model
+    4300118: Mesh64_Group15_Escalier2_Model
+    4300120: Mesh65_Group16_Escalier2_Model
+    4300122: Mesh66_Group17_Escalier2_Model
+    4300124: Mesh67_Rampe3_Escalier2_Model
+    4300126: Mesh68_Rampe4_Escalier2_Model
+    4300128: Mesh69_Escalier2_Model
+    4300130: Mesh6_Architrave_E_O3_Model
+    4300132: Mesh7_Parapet_1_1_3_Model
+    4300134: Mesh8_Architrave_E_O4_Model
+    4300136: Mesh9_Architrave_E_O5_Model
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh10_Architrave_E_O6_ModelMat
+    second: {fileID: 2100000, guid: 75ef94d9fc7a67d49b414ab2e1f887f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh11_Pilier_carr_1_ModelMat
+    second: {fileID: 2100000, guid: 0266c05e49269734fb6ca512a75ae011, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh12_Parapet_1_1_4_ModelMat
+    second: {fileID: 2100000, guid: 8d41300c10b8bcd43a243518aa88a443, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh13_Architrave_E_O7_ModelMat
+    second: {fileID: 2100000, guid: 0be07b4d187af2a4cbb12e425f08b3f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh14_Pilier_d_angle1_ModelMat
+    second: {fileID: 2100000, guid: 05b022c3307b0b04d9e07c1cd4ff56ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh15_Architrave_N_S1_ModelMat
+    second: {fileID: 2100000, guid: a11829c9ffb0c6b46be6934694c1dfc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh16_Groupe_4_1_ModelMat
+    second: {fileID: 2100000, guid: 41abfd1a3297e43489510d9dc62fbf13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh17_Pilier_carr_2_ModelMat
+    second: {fileID: 2100000, guid: bc8c8127ebd4a7f43a79437bae7780b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh18_Parapet_1_1_5_ModelMat
+    second: {fileID: 2100000, guid: 366a918fe10717a42913d046528d5957, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh19_Architrave_E_O8_ModelMat
+    second: {fileID: 2100000, guid: aaf7737f750f2c34db8a1368f044e4bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh1_Group1_ModelMat
+    second: {fileID: 2100000, guid: 7f6fc549f155bc44abfdf9513f2be884, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh20_Parapet_1_1_ModelMat
+    second: {fileID: 2100000, guid: dfde3080938fe5e4caa84e0e034cc2c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh21_Architrave_N_S2_ModelMat
+    second: {fileID: 2100000, guid: 6e30938ad487fdb43922dfdc41af77fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh22_Parapet_1_1_6_ModelMat
+    second: {fileID: 2100000, guid: 5d911569127a66f42ab47f5a6fca5570, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh23_Pilier_d_angle2_ModelMat
+    second: {fileID: 2100000, guid: d142b1aa68ca45445a2c31ba10399a6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh24_Parapet_1_2_ModelMat
+    second: {fileID: 2100000, guid: ca2c407b316c83b4a81a0239de454c54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh25_Pilier_d_angle3_ModelMat
+    second: {fileID: 2100000, guid: 418aa86a77cd52740b06f68b9b405235, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh26_Pilier_d_angle4_ModelMat
+    second: {fileID: 2100000, guid: f28c45ad94a92c94da4735688d832620, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh27_Architrave_N_S3_ModelMat
+    second: {fileID: 2100000, guid: db92abb5c81a3a2438abb452a8a3a328, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh28_Pilier_d_angle5_ModelMat
+    second: {fileID: 2100000, guid: e1dedeb7e8535bc4dad5a8ebe8f70065, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh29_Parapet_1_3_ModelMat
+    second: {fileID: 2100000, guid: 5c80466f8b9ce7a439af968415c5c157, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh2_Architrave_E_O1_ModelMat
+    second: {fileID: 2100000, guid: e76fc5bc41ec6fa45a5ccfb55087d734, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh30_Boudin1_ModelMat
+    second: {fileID: 2100000, guid: 6fabefe9c563e7746b5f1f122a2bef73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh31_Pilier_carr_3_ModelMat
+    second: {fileID: 2100000, guid: c12d43f49d53ad34f9c6d880459f0794, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh32_Pilier_d_angle6_ModelMat
+    second: {fileID: 2100000, guid: 79e78524a29933145aca04e3b3ece49b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh33_Architrave_N_S4_ModelMat
+    second: {fileID: 2100000, guid: 329f6fa2b9b4d884abbbab798325d4c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh34_Parapet_1_4_ModelMat
+    second: {fileID: 2100000, guid: 0cb28900652ba2241b4cc559c29ef045, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh35_Architrave_E_O9_ModelMat
+    second: {fileID: 2100000, guid: f69d7c7525a9baa4289f2df7370c4ab9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh36_Pilier_carr_4_ModelMat
+    second: {fileID: 2100000, guid: 3e74f0e46a3bf2f4986cc43f86dda47f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh37_Architrave_E_O10_ModelMat
+    second: {fileID: 2100000, guid: 8a463828831f57f4a9ec3459f167288d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh38_Architrave_N_S5_ModelMat
+    second: {fileID: 2100000, guid: 0c80f4a07f71b6647ab405016c36daa0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh39_Architrave_E_O11_ModelMat
+    second: {fileID: 2100000, guid: 65a3f13f23ebe934588ccfb68034850a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh3_Parapet_1_1_1_ModelMat
+    second: {fileID: 2100000, guid: c768ea186c3a7c8418b386b343864e3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh40_Architrave_E_O12_ModelMat
+    second: {fileID: 2100000, guid: b64eea29fe8c7e84bb1c89d148535f40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh41_Architrave_N_S6_ModelMat
+    second: {fileID: 2100000, guid: c2c285a54bea4024ab672b680bf0e36b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh42_Pilier_carr_5_ModelMat
+    second: {fileID: 2100000, guid: d2381bd665153db4494bbf62a0d843de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh43_Pilier_d_angle7_ModelMat
+    second: {fileID: 2100000, guid: ab42d5cb613adff4b8580dc1eda1906a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh44_Pilier_carr_6_ModelMat
+    second: {fileID: 2100000, guid: 57864ad2ab85eb94d91ac79d471ac990, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh45_Pilier_carr_7_ModelMat
+    second: {fileID: 2100000, guid: e7cc77eac0ba1dd46bc4922b03cd53fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh46_Pilier_d_angle8_ModelMat
+    second: {fileID: 2100000, guid: b3eab57455b7c0344a29a00caa8617f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh47_Pilier_carr_8_ModelMat
+    second: {fileID: 2100000, guid: 1465dc1c5b0cb584da06229151780b0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh48_Group2_Escalier1_ModelMat
+    second: {fileID: 2100000, guid: 76da134910e7a4c44bc8d4c855e5ac67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh49_Group3_Escalier1_ModelMat
+    second: {fileID: 2100000, guid: 0fd9e3b1e9f4b41419955edc1f88b3df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh4_Parapet_1_1_2_ModelMat
+    second: {fileID: 2100000, guid: 4c565793a4aedc84fb55351928a1d5a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh50_Group4_Escalier1_ModelMat
+    second: {fileID: 2100000, guid: 355b02797255fe744acc6e58ab5d169b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh51_Group5_Escalier1_ModelMat
+    second: {fileID: 2100000, guid: eb963cf8495915344ac12015083afbd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh52_Group6_Escalier1_ModelMat
+    second: {fileID: 2100000, guid: a529b0efeaef130499615a6353d6b6c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh53_Group7_Escalier1_ModelMat
+    second: {fileID: 2100000, guid: 8aa782f9b2d92cc42a5fe3034bece522, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh54_Group8_Escalier1_ModelMat
+    second: {fileID: 2100000, guid: 35704ff7e63e2a34da59bfc88b859c8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh55_Group9_Escalier1_ModelMat
+    second: {fileID: 2100000, guid: 26f96150f4468924fbe762758148cf12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh56_Rampe1_Escalier1_ModelMat
+    second: {fileID: 2100000, guid: 2b9d06ef6b68b4840a5434cfb2eec4f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh57_Rampe2_Escalier1_ModelMat
+    second: {fileID: 2100000, guid: 23aeb973f493583439ab9132247f784f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh58_Escalier1_ModelMat
+    second: {fileID: 2100000, guid: d3dea80294637d147bafd00d55782d9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh59_Group10_Escalier2_ModelMat
+    second: {fileID: 2100000, guid: c1d79ecb059d3034e9d7a51cd48a4ba7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh5_Architrave_E_O2_ModelMat
+    second: {fileID: 2100000, guid: 65ce2b73274bfd14d9bba7ae1a29499a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh60_Group11_Escalier2_ModelMat
+    second: {fileID: 2100000, guid: c409b66136c2f2d469ea768c1e66d610, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh61_Group12_Escalier2_ModelMat
+    second: {fileID: 2100000, guid: cd95e595bf2681346978d5d9bb220272, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh62_Group13_Escalier2_ModelMat
+    second: {fileID: 2100000, guid: 23d1dbedbb2349a429d9afc0dfaa5478, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh63_Group14_Escalier2_ModelMat
+    second: {fileID: 2100000, guid: 38daffce9d03c6e428d1e3a1ddf9d105, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh64_Group15_Escalier2_ModelMat
+    second: {fileID: 2100000, guid: e9324cd229969ae488fcc8f6c36436e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh65_Group16_Escalier2_ModelMat
+    second: {fileID: 2100000, guid: 6ca87ad358364624581bb49724ed2f18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh66_Group17_Escalier2_ModelMat
+    second: {fileID: 2100000, guid: fb8b933ace1c00b4a8c2d78380fc9b18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh67_Rampe3_Escalier2_ModelMat
+    second: {fileID: 2100000, guid: 2d9b9fc6941759840a8d9f0e639b7b93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh68_Rampe4_Escalier2_ModelMat
+    second: {fileID: 2100000, guid: 0b032911f058f72448c1b5f2d38f7e27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh69_Escalier2_ModelMat
+    second: {fileID: 2100000, guid: 492d19294bcac2346a416f4b33d5b989, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh6_Architrave_E_O3_ModelMat
+    second: {fileID: 2100000, guid: cb73e3a720639094cab82c54d20c39f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh7_Parapet_1_1_3_ModelMat
+    second: {fileID: 2100000, guid: fd593787067982746a1d2bcb34d8120f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh8_Architrave_E_O4_ModelMat
+    second: {fileID: 2100000, guid: 517371fbf0cf3284a8f1d1b1a02d28d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh9_Architrave_E_O5_ModelMat
+    second: {fileID: 2100000, guid: 752649635f25a914cb566c496b52cb4c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

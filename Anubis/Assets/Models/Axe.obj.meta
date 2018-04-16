@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: a4554427f541ee347bbc16c16527b2e8
+timeCreated: 1522444271
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cylinder.003_Cylinder.000_sekirra
+    100002: Cylinder.004_Cylinder.002_cloth
+    100004: Cylinder.004_Cylinder.002_metal_on_wood
+    100006: Cylinder.004_Cylinder.002_wood
+    100008: //RootNode
+    400000: Cylinder.003_Cylinder.000_sekirra
+    400002: Cylinder.004_Cylinder.002_cloth
+    400004: Cylinder.004_Cylinder.002_metal_on_wood
+    400006: Cylinder.004_Cylinder.002_wood
+    400008: //RootNode
+    2300000: Cylinder.003_Cylinder.000_sekirra
+    2300002: Cylinder.004_Cylinder.002_cloth
+    2300004: Cylinder.004_Cylinder.002_metal_on_wood
+    2300006: Cylinder.004_Cylinder.002_wood
+    3300000: Cylinder.003_Cylinder.000_sekirra
+    3300002: Cylinder.004_Cylinder.002_cloth
+    3300004: Cylinder.004_Cylinder.002_metal_on_wood
+    3300006: Cylinder.004_Cylinder.002_wood
+    4300000: Cylinder.003_Cylinder.000_sekirra
+    4300002: Cylinder.004_Cylinder.002_cloth
+    4300004: Cylinder.004_Cylinder.002_metal_on_wood
+    4300006: Cylinder.004_Cylinder.002_wood
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.003_Cylinder.000_sekirraMat
+    second: {fileID: 2100000, guid: a531cb237082b5a45b72819ac71b8ac5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.004_Cylinder.002_clothMat
+    second: {fileID: 2100000, guid: e237e49d4e8ac0b4b9926bf5fdecd19d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.004_Cylinder.002_metal_on_woodMat
+    second: {fileID: 2100000, guid: 67629f756320bcd41869e73cab9585e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.004_Cylinder.002_woodMat
+    second: {fileID: 2100000, guid: 1cad898a1d7932642956028509fbee48, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
